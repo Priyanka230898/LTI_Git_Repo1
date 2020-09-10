@@ -1,0 +1,11 @@
+echo "# LTI_Git_Repo1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/Priyanka230898/LTI_Git_Repo1.git
+git push -u origin master
+                
+git remote add origin https://github.com/Priyanka230898/LTI_Git_Repo1.git
+git branch -M master
+git push -u origin master
